@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636649418 source:c:\users\bie_animation\onedrive\desktop\importants\eep\algoritmos e lógica de programação ii\tarefas\trabalho prático - batalha naval\batalha_naval\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
